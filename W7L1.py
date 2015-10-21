@@ -1,5 +1,6 @@
 # Framework for Conway's game of life
-# Daniel Neumann
+# Nicole Ignasiak
+# October 21, 2015
 # CIS 125 FA2104
 
 # Functions
